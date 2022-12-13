@@ -1,4 +1,4 @@
-package BTK_Course.classesWithAttribute;
+package BTK_Course.Encapsulation;
 
 public class ProductManager {
     public void Add(Product product){

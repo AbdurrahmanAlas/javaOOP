@@ -1,4 +1,4 @@
-package BTK_Course.classesWithAttribute;
+package BTK_Course.Encapsulation;
 
 public class Product {
 
@@ -9,6 +9,20 @@ public class Product {
     private double price;
     private int stockAmount;
     private String kod;
+
+    public  Product(){
+
+    }
+
+
+    public Product(int _id, String name, String description, double price, int stockAmount, String kod) {
+        this._id = _id;
+        this.name = name;
+        this.description = description;
+        this.price = price;
+        this.stockAmount = stockAmount;
+        this.kod = kod;
+    }
 
     public int get_id() {
         return _id;
