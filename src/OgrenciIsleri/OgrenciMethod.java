@@ -109,6 +109,7 @@ public class OgrenciMethod {
 
     private static void ogrKayit(ArrayList<Ogrenci> liste) {
 
+        Scanner scan=new Scanner(System.in);
         System.out.println("Ögrencinin adını giriniz :");
         String ad=scan.nextLine();
         Ogrenci ogrenci=new Ogrenci(++ogrenciN,ad);

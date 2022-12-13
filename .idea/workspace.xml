@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d3d68a-9716-4315-b64b-309585bad285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaNewOO.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OgrenciIsleri/OgrenciMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OgrenciIsleri/OgrenciMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +37,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/JavaTum/java2021/javaNewOO"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BTK_Course.classesWithAttribute.Main">
+    <configuration name="BTK_Course.DortIslemClasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTK_Course.DortIslemClasses.Main" />
+      <module name="javaNewOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BTK_Course.DortIslemClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTK_Course.classesWithAttribute.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTK_Course.classesWithAttribute.Main" />
+      <module name="javaNewOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BTK_Course.classesWithAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OgrenciIsleri.Main" />
+      <module name="javaNewOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OgrenciIsleri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bookstore.bookStore" />
       <module name="javaNewOO" />
@@ -57,8 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTK_Course.method2" />
+      <module name="javaNewOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BTK_Course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BTK_Course.classesWithAttribute.Main" />
+        <item itemvalue="Application.BTK_Course.DortIslemClasses.Main" />
+        <item itemvalue="Application.method2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.bookStore" />
       </list>
     </recent_temporary>
